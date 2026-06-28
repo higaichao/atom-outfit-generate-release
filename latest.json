@@ -1,5 +1,6 @@
 {
-  "latest_version": "1.0.6",
-  "updated_at": "2026-06-07",
-  "message": "v1.0.6 release"
+  "latest_version": "1.0.7",
+  "updated_at": "2026-06-28",
+  "message": "补齐 SkillHub 发布流程和版本通知校验",
+  "download_url": "https://jn-skillhub.bytedance.net/skills/Atom-%E6%9C%8D%E8%A3%85%E7%94%9F%E6%88%90"
 }
