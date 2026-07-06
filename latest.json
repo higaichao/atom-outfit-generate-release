@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.9",
-  "updated_at": "2026-07-04",
-  "message": "修正 Atom 服装生成 1.0.9 发布版本引用",
+  "latest_version": "1.0.10",
+  "updated_at": "2026-07-05",
+  "message": "新增 selector 图片标注功能（fabric 画布与标注测试），更新长期记忆层",
   "download_url": "https://jn-skillhub.bytedance.net/skills/Atom-%E6%9C%8D%E8%A3%85%E7%94%9F%E6%88%90"
 }
